@@ -295,5 +295,10 @@
    "SIM - Especialidad en Desarrollo e Integración de Sistemas de Manufactura",
    "SLD - Salud / Exploración",
    "TBC - Prepa Tec Bilingüe (Ciencia Integrada)",
-   "TIE - Tecnologías de Información y Electrónica / Exploración"
+   "TIE - Tecnologías de Información y Electrónica / Exploración",
+   "Investigador",
+   "Asistente investigador",
+   "Colaborador",
+   "EXATEC",
+   "OTRO"
 ]
